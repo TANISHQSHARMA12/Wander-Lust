@@ -1,2 +1,2 @@
-# Full-Stack Development
-This is the new delta project repo.
+# Full-Stack Development.
+In this I used Frontend,Backend and Database Technologies.
